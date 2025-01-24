@@ -9,12 +9,12 @@ Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino mé
          <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LuisiDiCarlo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/LuisiDiCarlo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-         <a href="luisidicarlo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+         <a href="mailto:luisidicarlo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias:
 
 <img 
     align="left" 
@@ -46,7 +46,7 @@ Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino mé
 <br/>
 
 
-### 📊 Estatísticas
+### 📊 Estatísticas:
 
 <p>
   <img 
@@ -66,3 +66,7 @@ Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino mé
   />
 
 </p>
+
+**![snake animation](https://github.com/<LuisiDiCarlo>/LuisiDiCarlo>/blob/output/github-contribution-grid-snake2.svg)**
+
+
