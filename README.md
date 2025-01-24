@@ -9,7 +9,7 @@ Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino mé
       <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LuisiDiCarlo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
    <a href="https://github.com/LuisiDiCarlo?tab=followers">
-      <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/LuisiDiCarlo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/LuisiDiCarlo?color=FFD700&labelColor=FFD700&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
    <a href="mailto:luisidicarlo19@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -18,7 +18,6 @@ Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino mé
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
    </a>
 </p>
-
 
 
 
