@@ -64,7 +64,6 @@ Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino mé
       width='480'
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisiDiCarlo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
 
