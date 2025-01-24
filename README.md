@@ -5,12 +5,21 @@
 Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Adventista. Atualmente, estou estudando JavaScript e aprimorando meus conhecimentos em HTML e CSS. Sou apaixonada por tecnologia e estou sempre buscando aprender coisas novas.
 
 <p align="left">
-      <a href="https://github.com/LuisiDiCarlo?tab=repositories&sort=stargazers">
-         <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LuisiDiCarlo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://github.com/LuisiDiCarlo?tab=followers">
-         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/LuisiDiCarlo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-         <a href="mailto:luisidicarlo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   </p>
+   <a href="https://github.com/LuisiDiCarlo?tab=repositories&sort=stargazers">
+      <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LuisiDiCarlo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+   <a href="https://github.com/LuisiDiCarlo?tab=followers">
+      <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/LuisiDiCarlo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+   <a href="mailto:luisidicarlo19@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   </a>
+   <a href="https://www.linkedin.com/in/luísi-di-carlo-3450722aa" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
+</p>
+
+
 
 ---
 
