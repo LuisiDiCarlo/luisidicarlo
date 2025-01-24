@@ -67,6 +67,4 @@ Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino mé
 
 </p>
 
-**![snake animation](https://github.com/<LuisiDiCarlo>/LuisiDiCarlo>/blob/output/github-contribution-grid-snake2.svg)**
-
 
