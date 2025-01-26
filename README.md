@@ -72,8 +72,7 @@ Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino mé
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width='300'
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisiDiCarlo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclr11&layout=compact&langs_count=7&theme=tokyonight"
   />
 </p>
 
