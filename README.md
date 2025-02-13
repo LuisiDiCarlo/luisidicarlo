@@ -3,7 +3,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Adventista. Atualmente, estou estudando JavaScript e aprimorando meus conhecimentos em HTML e CSS. Sou apaixonada por tecnologia e estou sempre buscando aprender coisas novas.
+Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Adventista. Atualmente, estou cursando Sistemas para Internet na Fatec e aprimorando meus conhecimentos em HTML e CSS estudando em casa. Sou apaixonada por tecnologia e estou sempre buscando aprender coisas novas.
 
 <p align="left">
    <a href="https://github.com/LuisiDiCarlo?tab=repositories&sort=stargazers">
