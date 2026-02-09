@@ -1,11 +1,10 @@
+<h1 align="left">Hey👋, I'm Luísi</h1> <br />
+<h1 align="left">Junior IT Support Analyst and Developer in training</h1>
 
-# 👩🏻‍💻 Luísi Di Carlo
-
-**`Estudante de Programação`**
-
-Sou estudante de Sistemas para Internet na FATEC e atuo como Analista de Suporte de TI Júnior na Látex São Roque, oferecendo atendimento e suporte técnico aos usuários, diagnóstico de problemas e apoio na manutenção de sistemas e equipamentos.
-
-Tenho interesse em programação e desenvolvimento web, buscando aplicar na prática os conhecimentos adquiridos na faculdade junto à experiência do suporte, entendendo as necessidades do usuário para criar soluções mais eficientes e funcionais.
+<h2 align="left">About me:</h2>
+▸ 🅰️ I work in IT support and web development. <br/> <br/>
+▸ 👨🏽‍💻 I work as a Junior IT Support Analyst at <a href="https://www.latexsr.com.br/" target="_blank">Látex</a>. <br/> <br/>
+▸ 🧠 My goal is to apply the knowledge I acquired in college, along with my experience in support, to understand user needs in order to create more efficient and functional solutions. <br/> <br/>
 
 <p align="left">
    <a href="https://github.com/LuisiDiCarlo?tab=repositories&sort=stargazers">
@@ -14,6 +13,9 @@ Tenho interesse em programação e desenvolvimento web, buscando aplicar na prá
    <a href="https://github.com/LuisiDiCarlo?tab=followers">
       <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/LuisiDiCarlo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
+
+
+### Contact me:
    <a href="mailto:luisidicarlo19@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </a>
@@ -60,25 +62,6 @@ Tenho interesse em programação e desenvolvimento web, buscando aplicar na prá
 <br/>
 <br/>
 
-
-### 📊 Estatísticas:
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuisiDiCarlo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="center" 
-      alt="GitHub Stats"
-      height="180em"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclr11&layout=compact&langs_count=7&theme=tokyonight&custom_title=Tecnologias"
-  />
-</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisiDiCarlo/LuisiDiCarlo/output/github-contribution-grid-snake-dark.svg">
