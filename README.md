@@ -1,10 +1,4 @@
 <h1 align="left">Hey👋, I'm Luísi</h1> <br />
-<h1 align="left">Junior IT Support Analyst and Developer in training</h1>
-
-<h2 align="left">About me:</h2>
-▸ 🅰️ I work in IT support and web development. <br/> <br/>
-▸ 👨🏽‍💻 I work as a Junior IT Support Analyst at <a href="https://www.latexsr.com.br/" target="_blank">Látex</a>. <br/> <br/>
-▸ 🧠 My goal is to apply the knowledge I acquired in college, along with my experience in support, to understand user needs in order to create more efficient and functional solutions. <br/> <br/>
 
 <p align="left">
    <a href="https://github.com/LuisiDiCarlo?tab=repositories&sort=stargazers">
@@ -13,6 +7,13 @@
    <a href="https://github.com/LuisiDiCarlo?tab=followers">
       <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/LuisiDiCarlo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
+   
+<h1 align="left">Junior IT Support Analyst and Developer in training</h1>
+
+<h2 align="left">About me:</h2>
+▸ 🅰️ I work in IT support and web development. <br/> <br/>
+▸ 👨🏽‍💻 I work as a Junior IT Support Analyst at <a href="https://www.latexsr.com.br/" target="_blank">Látex</a>. <br/> <br/>
+▸ 🧠 My goal is to apply the knowledge I acquired in college, along with my experience in support, to understand user needs in order to create more efficient and functional solutions. <br/> <br/>
 
 
 ### Contact me:
