@@ -3,7 +3,9 @@
 
 **`Estudante de Programação`**
 
-Me chamo Luisi, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Adventista. Atualmente, estou cursando Sistemas para Internet na Fatec e aprimorando meus conhecimentos em HTML e CSS estudando em casa. Sou apaixonada por tecnologia e estou sempre buscando aprender coisas novas.
+Sou estudante de Sistemas para Internet na FATEC e atuo como Analista de Suporte de TI Júnior na Látex São Roque, oferecendo atendimento e suporte técnico aos usuários, diagnóstico de problemas e apoio na manutenção de sistemas e equipamentos.
+
+Tenho interesse em programação e desenvolvimento web, buscando aplicar na prática os conhecimentos adquiridos na faculdade junto à experiência do suporte, entendendo as necessidades do usuário para criar soluções mais eficientes e funcionais.
 
 <p align="left">
    <a href="https://github.com/LuisiDiCarlo?tab=repositories&sort=stargazers">
